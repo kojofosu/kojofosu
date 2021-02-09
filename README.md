@@ -4,10 +4,13 @@
 
 [comment]: <> ([![kojofosu's_Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&langs_count=10a&layout=compact&#41;]&#40;https://github.com/kojofosu/github-readme-stats&#41;)
 
+
+<div align="center">
 <a href="https://github.com/kojofosu/kojofosu">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kojofosu&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&#41line_height=21&text_color=000&icon_color=000&bg_color=0,ffffff,4ca2cd&theme=dark" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kojofosu&hide_border=true&include_all_commits=true&count_private=true&&hide_title=true&show_icons=true&#41line_height=21&text_color=000&icon_color=000&bg_color=0,ffffff,4ca2cd&theme=dark" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&hide=html&hide_title=true&hide_border=true&layout=default&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,4ca2cd,ffffff&theme=graywhite" />
 </a>
+</div>
 
 <br/>
 <br/>
