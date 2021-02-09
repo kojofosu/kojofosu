@@ -5,12 +5,16 @@
 [comment]: <> ([![kojofosu's_Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&langs_count=10a&layout=compact&#41;]&#40;https://github.com/kojofosu/github-readme-stats&#41;)
 
 <a href="https://github.com/kojofosu/kojofosu">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kojofosu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ffffff,4ca2cd&theme=dark" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kojofosu&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&#41line_height=21&text_color=000&icon_color=000&bg_color=0,ffffff,4ca2cd&theme=dark" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&hide=html&hide_title=true&hide_border=true&layout=default&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,4ca2cd,ffffff&theme=graywhite" />
-
 </a>
 
-**Languages and Tools:**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h3 align="center">Languages and Tools</h3>
 
 ![Python](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) 
@@ -24,7 +28,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL) 
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)
 
-**Find me**
+<br/><br/><br/>
+<h3 align="center">Find Me</h3>
 <p align="center">
 	<a href="https://github.com/kojofosu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kojo-fosu-bempa-edue-56290a149/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
