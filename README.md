@@ -1,10 +1,14 @@
-
-### Hi there 👋
-
 ![alt_bottom_png][$bottom_png]
-[![kojofosu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojofosu&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/kojofosu/github-readme-stats)
 
-[![kojofosu's_Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&langs_count=10a&layout=compact)](https://github.com/kojofosu/github-readme-stats)
+[comment]: <> ([![kojofosu's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=kojofosu&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&#41;]&#40;https://github.com/kojofosu/github-readme-stats&#41;)
+
+[comment]: <> ([![kojofosu's_Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&langs_count=10a&layout=compact&#41;]&#40;https://github.com/kojofosu/github-readme-stats&#41;)
+
+<a href="https://github.com/kojofosu/kojofosu">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kojofosu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ffffff,4ca2cd&theme=dark" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&hide=html&hide_title=true&hide_border=true&layout=default&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,4ca2cd,ffffff&theme=graywhite" />
+
+</a>
 
 **Languages and Tools:**
 
@@ -33,13 +37,7 @@
 
 
 
-[comment]: <> (<a href="https://github.com/kojofosu/kojofosu">)
 
-[comment]: <> (    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kojofosu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ffff,0000&theme=graywhite" />)
-
-[comment]: <> (    <!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojofosu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />)
-
-[comment]: <> (</a>)
 
 
 
